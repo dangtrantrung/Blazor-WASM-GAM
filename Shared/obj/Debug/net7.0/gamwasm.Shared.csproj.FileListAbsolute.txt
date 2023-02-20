@@ -1,0 +1,12 @@
+F:\blazor\gamwasm\Shared\bin\Debug\net7.0\gamwasm.Shared.deps.json
+F:\blazor\gamwasm\Shared\bin\Debug\net7.0\gamwasm.Shared.dll
+F:\blazor\gamwasm\Shared\bin\Debug\net7.0\gamwasm.Shared.pdb
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\gamwasm.Shared.csproj.AssemblyReference.cache
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\gamwasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\gamwasm.Shared.AssemblyInfoInputs.cache
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\gamwasm.Shared.AssemblyInfo.cs
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\gamwasm.Shared.csproj.CoreCompileInputs.cache
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\gamwasm.Shared.dll
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\refint\gamwasm.Shared.dll
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\gamwasm.Shared.pdb
+F:\blazor\gamwasm\Shared\obj\Debug\net7.0\ref\gamwasm.Shared.dll
